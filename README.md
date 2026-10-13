@@ -6,7 +6,11 @@ An interactive Power BI dashboard that analyzes Superstore sales data to track s
 
 ## Demo
 
-Full screen recording: [Watch the demo video](ADD-YOUR-VIDEO-LINK-HERE)
+Full screen recording:
+
+
+
+  
 
 ## Dashboard Preview
 
