@@ -81,9 +81,7 @@ Superstore-Sales-Dashboard/
 |-- images/
 |   |-- dashboard-overview.png
 |   |-- filter-west.png
-|   |-- filter-technology.png
-|   |-- demo.gif
-```
+|   |-- Screenshot 2026-10-08 112255
 
 ## Dataset
 
